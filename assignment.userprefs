@@ -1,0 +1,28 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\scripts\zombieGenerator.js">
+    <Files>
+      <File FileName="Assets\scripts\BackgroundController.js" Line="1" Column="1" />
+      <File FileName="Assets\scripts\bullet_controler.js" Line="1" Column="1" />
+      <File FileName="Assets\scripts\bullet_shooter.js" Line="15" Column="2" />
+      <File FileName="Assets\scripts\bullet_shooter2.js" Line="3" Column="20" />
+      <File FileName="Assets\scripts\bullet_shooter3.js" Line="29" Column="1" />
+      <File FileName="Assets\scripts\Enemy_Controller.js" Line="1" Column="1" />
+      <File FileName="Assets\scripts\Enemy_Laser_Controller.js" Line="1" Column="1" />
+      <File FileName="Assets\scripts\exitGame.js" Line="1" Column="1" />
+      <File FileName="Assets\scripts\objectGen.js" Line="1" Column="1" />
+      <File FileName="Assets\scripts\PlayerController.js" Line="23" Column="3" />
+      <File FileName="Assets\scripts\playGame.js" Line="1" Column="1" />
+      <File FileName="Assets\scripts\shieldGenerator.js" Line="1" Column="1" />
+      <File FileName="Assets\scripts\won.js" Line="1" Column="1" />
+      <File FileName="Assets\scripts\zombieControler.js" Line="1" Column="1" />
+      <File FileName="Assets\scripts\zombieGenerator.js" Line="1" Column="15" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="C:\Users\PJ\Desktop\Unity\AssM\assignment\Assets\scripts\Background Controller.js" line="13" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
